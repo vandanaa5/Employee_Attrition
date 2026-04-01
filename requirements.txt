@@ -1,3 +1,4 @@
+setuptools
 numpy
 pandas
 scikit-learn
@@ -5,5 +6,4 @@ matplotlib
 seaborn
 joblib
 streamlit
-altair==4.0
-standard-imghdr
+altair
